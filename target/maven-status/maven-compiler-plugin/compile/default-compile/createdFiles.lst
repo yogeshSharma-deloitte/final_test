@@ -1,0 +1,8 @@
+com/test/demo/entity/User.class
+com/test/demo/repository/UserRepository.class
+com/test/demo/controllers/ProductController.class
+com/test/demo/AcmeSpringbootProject.class
+com/test/demo/controllers/UserController.class
+com/test/demo/services/UserService.class
+com/test/demo/entity/Product.class
+com/test/demo/repository/ProductRepository.class
